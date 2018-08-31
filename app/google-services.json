@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182579457779",
+    "firebase_url": "https://routin-87949.firebaseio.com",
+    "project_id": "routin-87949",
+    "storage_bucket": "routin-87949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182579457779:android:623013f8cf2da68a",
+        "android_client_info": {
+          "package_name": "com.aski.routin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182579457779-qrta6d9sc5gj8eue6j0h6kvjvhm2ld7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aski.routin",
+            "certificate_hash": "d680517670162a639bf1ba8d38c32ff7e63f3e40"
+          }
+        },
+        {
+          "client_id": "182579457779-icfdk4p5pgl4fkmtjp3b94gb30a3j542.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2q-YVEblMAWoqtLTBzTs4XrHNnwRd0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182579457779-icfdk4p5pgl4fkmtjp3b94gb30a3j542.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
